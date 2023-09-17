@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **Java, JDBC, Hibernate, HTML, CSS**
+- 💬 Ask me about **Java, JDBC, Hibernate, HTML, CSS, Sql**
 
 - 📫 How to reach me **deepikapkhairnar21@gmail.com**
 
